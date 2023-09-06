@@ -1,0 +1,16 @@
+body { font-family: Arial, Helvetica, sans-serif; font-size: 12px; }
+.div_form { margin: 0 auto; text-align: center; max-width: 200px; }
+.div_table { float:left; padding:10px; border: 0px; }
+.tables { text-align:center; border: 1px solid black; border-spacing: 0px; }
+.td_magic  { padding: 3px; border: 1px dashed #E5E5E5; background-color: #C0C0C0; min-width: 24px; }
+.td_normal { padding: 3px; border: 1px dashed #E5E5E5; background-color: #FFFFFF; min-width: 24px;}
+.td_gradient { width: 64px; height:60px; }
+.bold  { color: #FF0000; }
+.black { color: #000000; }
+
+
+
+
+
+
+
