@@ -5,3 +5,5 @@ A heatmap of occurrence of numbers in found permutations that use the "magic con
 
 ![magic_square_permutations](https://github.com/ondapc/magic-square-permutations/assets/26459137/b5c3e5ff-2084-4b3c-b001-4ffef94321a1)
 
+A more reasonable approach with less memory usage can be found
+https://github.com/ondapc/magic-square
