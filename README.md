@@ -1,6 +1,5 @@
-Magic Square Permutations ( heuristic approach )
-
-A heuristic approach to find all possible Magic Squares given a number.
+# magic-squares-permutations
+A heuristic approach to find all possible Magic Squares given a number using php.
 
 A heatmap of occurrence of numbers in found permutations that use the "magic constant" as the sum.
 
